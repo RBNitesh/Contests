@@ -161,5 +161,6 @@ public class Main{
         // problem-3
         Solution3 s3 = new Solution3();
         System.out.println(s3.zigZagArrays(3, 1, 3));
+        System.out.println();
     }
 }
